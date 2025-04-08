@@ -172,8 +172,3 @@ Feel free to fork this repository, create issues, and submit pull requests to im
 
 This repository is open-source and available under the [MIT License](LICENSE).
 
----
-
-### End of README
-
-This README file provides an organized overview of your folder, including information about your Java notes and tools (such as the Word-to-PDF converter). It also includes a section for dependencies and instructions on how to run your code. Let me know if you need further modifications!
