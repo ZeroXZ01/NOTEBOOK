@@ -88,6 +88,7 @@ Press Enter to exit...
 
 - `WordToPdfConverter.java`: Main class containing the conversion logic
 - `pom.xml`: Maven project configuration with dependencies
+  
 ---
 ## Is there a way to use Microsoft Word's built-in Word to PDF Converter?
 Yes, there is a way to leverage Microsoft Word's own PDF conversion capabilities from Java, which would solve the emoji and formatting issues completely since Microsoft Word handles these perfectly.
@@ -134,10 +135,10 @@ Full feature support: All Word features, including tables, charts, images, and c
 No font issues: Word handles all font substitutions automatically.
 
 ### Limitations:
-
 Platform-dependent: This only works on Windows with Microsoft Word installed.
 Requires license: Microsoft Word must be properly licensed on the computer.
 Performance: Launching Word for each conversion is slower than pure Java solutions.
+
 ---
 ## Troubleshooting
 
